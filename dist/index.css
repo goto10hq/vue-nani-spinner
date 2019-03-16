@@ -1,0 +1,1 @@
+.vue-nani-spinner-spinner{margin:0 auto;border-radius:100%;transition:all .3s linear}.vue-nani-spinner-text{text-align:center}@keyframes vue-nani-spinner-spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes vue-nani-spinner-spin-2{0%{transform:rotate(0deg)}to{transform:rotate(-1turn)}}
