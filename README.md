@@ -7,7 +7,7 @@
 
 ## Docs
 
-[Check docs and samples here](https://goto10hq.github.io/vue-nani-spinner/])
+[Check docs and samples here](https://goto10hq.github.io/vue-nani-spinner)
 
 ## License
 
