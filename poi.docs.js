@@ -2,6 +2,7 @@
 module.exports = {
   entry: 'docs.src/docs.js',
   output: {
-    dir: 'docs'
+    dir: 'docs',
+    publicUrl: './'
   } 
 }
